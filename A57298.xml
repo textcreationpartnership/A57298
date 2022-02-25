@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief and serious warning to such as are concerned in commerce and trading who go under the profession of truth, to keep within the bounds thereof, in righteousness, justice ad honesty towards all men.</title>
+            <author>Rigge, Ambrose, 1635?-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57298</idno>
+            <idno type="STC">Wing R1476</idno>
+            <idno type="STC">ESTC R31778</idno>
+            <idno type="EEBO-CITATION">12256350</idno>
+            <idno type="OCLC">ocm 12256350</idno>
+            <idno type="VID">57551</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57298)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57551)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1513:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief and serious warning to such as are concerned in commerce and trading who go under the profession of truth, to keep within the bounds thereof, in righteousness, justice ad honesty towards all men.</title>
+                  <author>Rigge, Ambrose, 1635?-1705.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1678]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed on p. 8: Ambrose Rigge, Catton-place in Surry, the 16th of the eleventh month, 1678.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+               <term>Christian life --  Quaker authors.</term>
+               <term>Christian ethics --  Quaker authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:57551:1"/>
+            <pb n="1" facs="tcp:57551:1" rendition="simple:additions"/>
+            <head>A BRIEF and SERIOUS WARNING TO SUCH As are concerned in <hi>Commerce</hi> and <hi>Trading,</hi> who go under the Profeſſion of TRUTH, to keep within the Bounds thereof, in Righteouſneſs, Juſtice and Honeſty to<g ref="char:EOLhyphen"/>wards all Men.</head>
+            <p>
+               <seg rend="decorInit">A</seg>NY Days and Months, yea, ſome Years, hath my Life been oppreſſed, and my Spirit grieved, to ſee and hear of the uneven Walking of many, who have a Name to live, and profeſs the Knowledge of GOD in Words; yea, and alſo of ſome who have taſted of the good Word of GOD, and have been made Partakers of the Power of the World to come, and have received the heavenly Gift and Grace of GOD, <hi>which teacheth all</hi> (who walk in it) <hi>to deny all Ungodlineſs and Worldly Luſts, and to live ſoberly, boneſtly and righteouſly in this preſent World;</hi> whoſe Faithfulneſs (with great Reaſon) hath been expected to GOD in Things of the higheſt Concern, and to have walked as Lights in the World, and in all Faithfulneſs both
+<pb n="2" facs="tcp:57551:2"/>
+to GOD and Man, to have ſtood as living Monu<g ref="char:EOLhyphen"/>ments of the Mercies of the LORD, letting their Lights ſo ſhine before Men, that they might ſee their good Works, both in ſpiritual and temporal Concerns; and ſo might have honoured and glo<g ref="char:EOLhyphen"/>rified GOD in their Day and Generation, and have convinced (or confounded) Gain-ſayers, putting to Silence the Ignorance of fooliſh Men, whereby the worthy Name of the LORD, (by which they have been called) might have been renowned through the Earth, and his precious Truth and Glory ſpread to the Ends of it, that many, thro' the beholding their good and exemplary Con<g ref="char:EOLhyphen"/>verſation in <hi>Chriſt,</hi> (coupled with the holy Fear of GOD) might have deſired to lay hold of the Skirt of a <hi>Chriſtian</hi> indeed, <hi>whoſe Praiſe is not of Men, but of</hi> GOD.</p>
+            <p>Theſe are the Fruits which we have laboured and travelled for through many and great Tribu<g ref="char:EOLhyphen"/>lations, <hi>that many might be turned to Righteouſneſs, and that the Knowledge of the Power and Glory of the</hi> LORD <hi>might cover the Earth, even as the Wa<g ref="char:EOLhyphen"/>ters do the Sea.</hi> This was (and is) our only End and Deſign, which, bleſſed be the LORD, many are Witneſſes of, and eſtabliſhed in, to our abun<g ref="char:EOLhyphen"/>dant Joy and Comfort: But there are ſome a<g ref="char:EOLhyphen"/>mongſt us who have not walked humbly with the LORD, as he hath required, nor kept in that low Eſtate neither inwardly nor outwardly, which becometh ſuch who are travelling up to <hi>Zion,</hi> with their Faces thitherward, but have launched from that Rock, which is <hi>firm</hi> and <hi>ſure,</hi> into the great Sea of <hi>Troubles</hi> and <hi>Uncertainty,</hi> where ſome have been drowned, others hardly eſcaping, and many yet labouring for the Shore, with little
+<pb n="3" facs="tcp:57551:2"/>
+Hopes of coming at it; who have not only brought themſelves in Danger of ſuffering Ship<g ref="char:EOLhyphen"/>wreck, but have drawn in others, and have in<g ref="char:EOLhyphen"/>dangered them alſo, which hath opened the Mouths of the Enemies of <hi>Sion's</hi> Welfare, to blaſpheme his great and glorious Name, and hath eclipſed the Luſtre of the glorious Sun of Righteouſneſs both in City and in Country: This is a crying Evil, and ought not to go proved, and that with a ſevere Countenance, for GOD is angry with it, and will aſſuredly puniſh it.</p>
+            <p>Many have got Credit upon the Account of TRUTH, becauſe at the Beginning it did, and doth ſtill lead all who were and are faithful to it, to Faithfulneſs and Truth even in the unrighteous <hi>Mammon,</hi> and to let their Yea be Yea, and their Nay be Nay, even between Man and Man in out<g ref="char:EOLhyphen"/>ward Things; ſo that many would have credited one that was called a <hi>Quaker</hi> with much, and many I believe, did meerly upon that Account, ſome whereof, I doubt, have juſt Cauſe to repent of it already: But if Truth and Righteouſneſs had been lived in by all who proſeſs it, there had been no ſuch Occaſion given; for they who ſtill retain their Integrity to the Truth and Life of Righteouſ<g ref="char:EOLhyphen"/>neſs manifeſted, can live with a Cup of Water, and a Morſel of Bread in a Cottage, before they can hazard other Mens Eſtates to advance their own; ſuch are not forward to borrow, nor to complain for Want, for their Eye and Truſt is to the LORD their Preſerver and Upholder, and he hath continued the little Meal in the Barrel, and the Oil in the Cruſe hath not failed to ſuch, 'till GOD hath ſent further Help; this is certainly known to a Remnant at this Day, <hi>who have
+<pb n="4" facs="tcp:57551:3"/>
+coveted no Man's Silver, Gold or Apparel, but have and do labour with their Hands Night and Day, that the Goſpel may be without Charge.</hi>
+            </p>
+            <p>It is ſo far below the Nobility of <hi>Chriſtianity,</hi> that it is ſhort of common Civility and honeſt Society amongſt Men, to twiſt into Mens Eſ<g ref="char:EOLhyphen"/>tates, and borrow upon the TRUTH'S Credit, (gained by the juſt and upright Dealing of the Faithful) more than they certainly know their own Eſtates are like to anſwer; and with what they borrow reach after great Things in the World, appearing to Men to be what in the Sight of God and Truth they are not, ſeeking to compaſs great Gain to themſelves, whereby to make themſelves or Children rich or great in the World: This I teſtify for the LORD GOD is De<g ref="char:EOLhyphen"/>ceit and Hypocriſy, and will be blaſted with the Breath of his Mouth, and we have ſeen it blaſted already.</p>
+            <p>And that Eſtate that is got either with the rending, or with the Hazard of rending another Man's, is neither honeſtly got, nor can be bleſſ<g ref="char:EOLhyphen"/>ed in the Poſſeſſion; for he that borrows Money of another, if the Money lent be either the Len<g ref="char:EOLhyphen"/>der's proper Eſtate, or Part of it <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>hans Money that he is intruſted withal <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ws, or ſome ſuch, who would not let <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>on certain good Security, and to have <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ble Conſideration of its Improvement; and the bor<g ref="char:EOLhyphen"/>rower, though he hath little or no real or perſo<g ref="char:EOLhyphen"/>nal Eſtate of his own, but hath got ſome Credit, either as he is a Profeſſor of the TRUTH or other<g ref="char:EOLhyphen"/>wiſe, and hath (it may be) a little Houſe, and a ſmall Trade, it may be enough to a low and con<g ref="char:EOLhyphen"/>tented
+<pb n="5" facs="tcp:57551:3"/>
+Mind; but then the Enemy gets in, and works in his Mind, and he begins to think of an higher Trade, and a ſiner Houſe, and to live more at Eaſe and Pleaſure in the World, and then contrives how he may borrow of this and the other, and when accompliſhed according to his Deſire, then he begins to undertake great Things, and gets into a fine Houſe, and gathers rich Furniture and Goods together, launching preſently into the ſtrong Torrent of a great Trade, and then makes a great Shew beyond what really he is, which is Diſhoneſty; and if he ac<g ref="char:EOLhyphen"/>compliſhes his intended Purpoſe, to raiſe himſelf in the World, it is with the Hazard (at leaſt) of other Mens Ruin, which is unjuſt: But if he falls ſhort of his Expectation, (as commonly ſuch do) then he doth not only ruin others, but him<g ref="char:EOLhyphen"/>ſelf alſo, and brings a great Reproach upon the bleſſed TRUTH he profeſſeth, which is worſe than all; and this hath already been manifeſted in a great Meaſure, and by ſad Experience witneſſed. But the honeſt upright Heart and Mind knows how to want, as well as how to abound, having learned Content in all States and Conditions; a ſmall Cottage and a little Trade is ſufficient to that Mind, and it never wants what is ſufficient: <hi>For he that cloaths the Lillies, and feeds the Ravens, cares for all who truſt in him,</hi> as it is at this Day witneſſed, Praiſes to God on high; and that Man hath no Glory in (nor Mind out after) <hi>ſuperfluous or needleſs rich Hangings, coſtly Furniture, fine Ta<g ref="char:EOLhyphen"/>bles, great Treats, curious Beds, Veſſels of Silver, or Veſſels of Gold, the very Poſſeſſion of which creates Envy,</hi> as faith the ancient <hi>Chriſtian, Clement A<g ref="char:EOLhyphen"/>lexandrinus,</hi> Paedag. <hi>lib. 2. Cap.</hi> 3. Pag. 160, 161.</p>
+            <p>
+               <pb n="6" facs="tcp:57551:4"/>The Way to be rich and happy in this World, is firſt to learn Righteouſneſs; for ſuch were never forſaken in any Age, nor their Seed beg<g ref="char:EOLhyphen"/>ing Bread. And charge all Parents of Children, that they keep their Children low and plain in Meat, Drink, Apparel, and every Thing elſe, and in due Subjection to all and reaſonable Commands, and let them not appear above the real Eſtates of their Parents, nor get up in Pride and high Things, though their Parents have plentiful Eſtates, for that is of dangerous Con<g ref="char:EOLhyphen"/>ſequence to their future Happineſs: And let all who profeſs the TRUTH, both Young and Old, Rich and Poor, ſee that they walk according to the Rule and Diſcipline of the Goſpel, in all Godly Converſation and Honeſty, that none may ſuffer Wrong by them in any Matter or Thing whatever; that, as the Apoſtle exhorted, <hi>they may owe nothing to any Man, but love one another; for Love out of a pure Heart is the fulfilling of the Law,</hi> which Law commands <hi>to do juſtly to all Men.</hi> And he that hath but little, let him live according to that little, and appear to be what in Truth he is; for above all GOD abhors the Hy<g ref="char:EOLhyphen"/>pocrite; and he that makes Haſte to be rich falls into <note place="bottom">1 Tim. vi. 9, 10</note>. <hi>Snares, Temptations, and many noiſom and burtful Luſts,</hi> which drown many in Perdition; <hi>And the Love of Money is the Root of all Evil, which, white ſome have luſted after, they have erred from the Faith, and pierced themſelves thro' with many Sorrows.</hi>
+            </p>
+            <p>For preventing this growing Evil for the Time to come, let ſuch by faithful Friends be exhorted, who either live without due Care, ſpending above what they are able to pay for, or
+<pb n="7" facs="tcp:57551:4"/>
+run into great Trades, oeyond what they can in Honeſty and Truth manage; and let them be tenderly admoniſhed of ſuch their Undertakings: This will not offend the lowly upright Mind; neither will the Honeſt-minded, who through a Temptation may be drawn into ſuch a Snare and Danger, take any Occaſion to ſtumble, becauſe his Deeds are brought to Light. And if after mature Deliberation, any are manifeſted to be run into any Danger of falling, or pulling others down with them, let them be faithfully dealt withal in Time, before Hope of Recovery be loſt, by honeſt faithful Friends, who are clear of ſuch Things themſelves, and be admoniſhed to pay what they have borrowed faithfully, and in due Time, and be content with their own, and to labour with their own Hands in the Thing that is honeſt, that they may have wherewith to give to him that needeth, knowing that Acts xx. 35. <hi>it is more bleſſed to give than to receive.</hi> And if they hear, and are thereby recovered, you will not count your Labour loſt; but if they be high, and refuſe Admonition, it is a manifeſt Sign all is not well: Let ſuch be admoniſhed again by more Friends and warned of the Danger before them; and if they ſtill refuſe and reject Counſel and Admonition, then lay it before the Meeting (concerned about TRUTH'S Affairs) to which they do belong, and if they refuſe to hear them, then let a Teſtimony go forth againſt ſuch their Pro<g ref="char:EOLhyphen"/>ceedings and Undertakings, <hi>as not being agreeable to the</hi> TRUTH, <hi>nor the Teſtimony of a good Conſci<g ref="char:EOLhyphen"/>ence, neither in the Sight of</hi> GOD <hi>nor Man:</hi> This will be a Terror to evil Doers of this Kind, and a Praiſe, Encouragement and Refreſhment to them who do well, and nothing will be loſt that
+<pb n="8" facs="tcp:57551:5" rendition="simple:additions"/>
+is worth ſaving by this Care; for he that doth Truth, whether in ſpiritual or temporal Matters, will willingly bring his Deeds to Light, that they may be manifeſted to all, that they are wrought in GOD.</p>
+            <p>Theſe Things lay weightily upon me, and I may truly ſay, in the Sight of GOD, <hi>I writ them in a great Croſs to my own Will,</hi> for I delight not, nay, my Soul is bowed down at the Occa<g ref="char:EOLhyphen"/>ſion of writing ſuch Things; but there is no Re<g ref="char:EOLhyphen"/>medy, the Name of the LORD has been, and is likely to be greatly diſhonoured, if Things of this Nature be not ſtopped, or prevented for Time to come: Therefore I beſeech you all, who have the Weight and Senſe of theſe Things upon you, let ſome ſpeedy and effectual Courſe be taken to prevent what poſſibly we may, both in this and all other Things, that may any Way cloud the Glory of that Sun which is riſen amongſt us. And make this publick, and ſend it abroad to be read in true Fear and Reverence, and let all concerned be faithfully and plainly warned, (without Reſpect of Perſons) by faithful Friends, who have the Care of GOD'S Glory, and his Churches Peace and Proſperity upon them: So will the Majeſty and Glory of GOD ſhine upon your Heads, and you ſhall be a good Savour of Life, both in them that are ſaved, and in them that are loſt.</p>
+            <closer>
+               <signed>Written by one who longs to ſee Righteouſneſs exalted, and all Deceit confounded, <hi>AMBROSE RIGGE.</hi>
+               </signed>
+               <dateline>
+                  <hi>Catton-place</hi> in <hi>Surry,</hi> 
+                  <date>the 16th of the Eleventh Month, 1678.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:57551:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
